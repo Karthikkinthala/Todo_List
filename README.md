@@ -1,6 +1,4 @@
 # Todo_List
-Todo List Web Application
-
 This project is a responsive and interactive Todo List web application built using HTML, CSS, JavaScript, and Bootstrap. It is designed to help users manage their daily tasks in a clean and user-friendly interface.
 The core functionality allows users to create tasks, view their task list, and manage their to-do items efficiently. The layout and styling are handled using Bootstrap 4, which ensures the app is mobile-responsive and visually appealing across devices. Custom styling with CSS enhances the design further, and Font Awesome icons are used for a modern UI experience.
 
